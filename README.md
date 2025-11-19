@@ -119,30 +119,19 @@ And communicates with backend on port 5000.
 🧑‍💻 Usage
 
 Filter companies by name, location, industry, size, or founding year
-
 Sort by name, location, industry
-
 Use pagination to navigate large datasets
-
 Switch between light & dark mode
-
 Clean UI with instant search results
 
 🛠️ Technologies Used
 Frontend
-
 React.js
-
 Tailwind CSS
-
 Axios
-
 Backend
-
 Node.js
-
 Express.js
-
 MongoDB (Atlas)
 
 Mongoose
